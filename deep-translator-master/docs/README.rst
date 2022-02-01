@@ -1,6 +1,5 @@
 ##################
 deep-translator
-SEE THIS https://github.com/nidhaloff/deep-translator
 ##################
 
 .. image:: ../assets/icon.jpg
@@ -39,6 +38,9 @@ SEE THIS https://github.com/nidhaloff/deep-translator
 =======================
 Translation for humans
 =======================
+
+
+SEE THIS https://github.com/nidhaloff/deep-translator
 
 A flexible **FREE** and **UNLIMITED** tool to translate between different languages in a simple way using multiple translators.
 
