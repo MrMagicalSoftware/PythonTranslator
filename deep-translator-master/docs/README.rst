@@ -1,5 +1,6 @@
 ##################
 deep-translator
+SEE THIS https://github.com/nidhaloff/deep-translator
 ##################
 
 .. image:: ../assets/icon.jpg
